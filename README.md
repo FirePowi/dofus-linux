@@ -13,7 +13,7 @@ NB: Le script doit être relancé après chaque MAJ !
 
 ## Utilisation
 ### Wine
-- copier le script dans le répertoire du jeu, par défaut : ~/.config/Ankama/zaap/dofus (ctrl+h pour voir les fichiers cachés)
+- copier le script dans le répertoire du jeu, par défaut : ~/.config/Ankama/Dofus (ctrl+h pour voir les fichiers cachés)
 - ouvrir un terminal et lancer ```./dofus-linux.sh configure```
 - patienter puis fermer le jeu
 - relancer le jeu via Ankama Launcher :)
